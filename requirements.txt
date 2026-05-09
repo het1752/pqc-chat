@@ -1,0 +1,10 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+websockets==13.1
+kyber-py==1.2.0
+dilithium-py==1.4.0
+xoflib==0.3.1
+cryptography==43.0.3
+pycryptodome==3.21.0
+python-dotenv==1.0.1
+aiosqlite==0.20.0
